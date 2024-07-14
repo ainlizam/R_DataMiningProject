@@ -1,0 +1,41 @@
+COURSE,SEMESTER,CGPA,MON_ALLOWANCE,MISS_CLASS,OWNERSHIP,NEED_DEVICE,COMF_PERSONAL,COMF_SENS,SECURE_PERSONAL,WLB_PERSONAL
+BCS,4,3.89,High,2,Not own,Daily,Yes,Yes,Yes,5
+BIT,5,3.32,High,6,Own,Daily,Yes,Yes,Yes,5
+BIT,5,3.71,High,2,Not own,Daily,Yes,Yes,Yes,5
+BIT,5,3.51,Low,3,Own,Daily,Yes,Yes,Yes,5
+BCS,4,3.33,Medium,3,Own,Hourly,Yes,Yes,Yes,5
+BCS,6,3.92,Low,1,Own,Hourly,Yes,Yes,Yes,2
+BIT,6,3.74,Low,1,Own,Daily,Yes,Yes,Yes,5
+BCS,5,3.52,Medium,4,Own,Daily,Yes,Yes,Yes,5
+BCS,6,3.79,Medium,2,Own,Daily,Yes,Yes,Yes,4
+BIT,4,3.43,High,1,Own,Daily,Yes,Yes,Yes,5
+BCS,5,3.72,Medium,2,Own,Daily,Yes,Yes,Yes,4
+BIT,6,3.42,Low,4,Own,Daily,Yes,Yes,Yes,4
+BIT,6,3.69,High,2,Own,Hourly,Yes,Maybe,Maybe,4
+BCS,5,3.76,High,3,Own,Daily,Yes,Yes,Yes,4
+BIT,6,3.71,Medium,3,Own,Hourly,Yes,Yes,Yes,4
+BCS,5,3.49,Very low,3,Own,Daily,Yes,Yes,Yes,4
+BIT,6,3.4,Low,3,Own,Hourly,Yes,Yes,Yes,4
+BCS,7,3.82,Extremely high,3,Own,Hourly,Yes,Yes,Yes,5
+BIT,6,3.57,Extremely high,4,Own,Daily,Yes,Yes,Yes,4
+BIT,4,3.42,Very low,2,Own,Daily,Yes,Yes,Yes,4
+BCS,5,3.77,Medium,2,Own,Hourly,Yes,Yes,Maybe,3
+BCS,6,3.66,High,2,Not own,Daily,Yes,Maybe,Yes,4
+BCS,6,3.5,Low,4,Own,Hourly,Yes,Yes,Yes,4
+BCS,5,3.2,Low,4,Own,Daily,Yes,Yes,Yes,4
+BIT,5,3.64,High,3,Not own,Daily,Yes,Yes,Maybe,4
+BIT,4,3.26,Medium,2,Not own,Daily,Yes,No,Yes,3
+BCS,4,3.7,Very low,2,Own,Weekly,Yes,Yes,Maybe,2
+BCS,6,3.41,Medium,3,Own,Daily,Yes,Yes,Yes,4
+BIT,7,3.64,Low,3,Own,Daily,Maybe,Yes,Yes,4
+BIT,4,3.1,High,3,Own,Hourly,Yes,Yes,Yes,5
+BIT,5,3.87,Medium,3,Own,Weekly,Yes,Yes,Yes,2
+BIT,6,3.68,High,4,Own,Daily,Maybe,Yes,Yes,4
+BCS,6,3.24,Extremely high,3,Own,Daily,Yes,Yes,Yes,4
+BIT,5,3.8,High,3,Own,Daily,Yes,Yes,Yes,4
+BCS,5,3.59,High,15,Own,Daily,Yes,Yes,Yes,4
+BIT,5,3.58,Very low,5,Not own,Daily,Yes,Yes,Yes,4
+BCS,4,3,Low,1,Own,Daily,Yes,Yes,Maybe,3
+BIT,6,3.33,Very low,3,Own,Hourly,Yes,Yes,Yes,4
+BIT,6,3.6,High,6,Own,Daily,Yes,Yes,Yes,4
+BCS,5,2.78,Medium,15,Own,Daily,Yes,Yes,Yes,4
